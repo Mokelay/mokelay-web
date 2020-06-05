@@ -2,6 +2,9 @@
 
 
 初始化数据库DDL（用于启动IDE）
+    先执行建表sql: https://cdn.mokelay.com/ty-client-core/db_ty_init.sql
+    再执行初始化数据sql: https://cdn.mokelay.com/ty-client-core/db_ty.sql
+
 
 
 前端基础组件包
